@@ -20,7 +20,7 @@ License
 
 This book is copyright © 2011 by Bryan Bibat. I still haven't decided on the appropriate license for this book. In the meantime, I'll just go with the one in Zed Shaw's excellent series [Learn Code the Hard Way](http://learncodethehardway.org/):
 
-You are free to distribute this book to anyone you want, so long as you do not charge anything for it, and it is not altered. You must give away the book in its entirety, or not at all. This means it's alright for you to teach a class using the book, so long as you aren't charging students for the book and you give them the whole book unmodified.
+You are free to distribute this book to anyone you want, so long as you do _not_ charge anything for it, _and_ it is not altered. You must give away the book in its entirety, or not at all. This means it's alright for you to teach a class using the book, so long as you aren't charging students for the book and you give them the whole _book_ unmodified.
 
 TODO
 ----
