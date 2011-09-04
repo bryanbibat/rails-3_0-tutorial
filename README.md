@@ -22,10 +22,17 @@ This book is copyright © 2011 by Bryan Bibat. I still haven't decided on the ap
 
 You are free to distribute this book to anyone you want, so long as you do _not_ charge anything for it, _and_ it is not altered. You must give away the book in its entirety, or not at all. This means it's alright for you to teach a class using the book, so long as you aren't charging students for the book and you give them the whole _book_ unmodified.
 
+Code
+----
+
+Code examples in the book are available at the following locations:
+
+* [https://github.com/bryanbibat/rails-3_0-tutorial-code](https://github.com/bryanbibat/rails-3_0-tutorial-code) - up to date code. written under Ubuntu 11.04.
+* [https://github.com/bryanbibat/alingnena-rails3](https://github.com/bryanbibat/alingnena-rails3) - mostly outdated. has the advantage of being written and verified under Windows 7
+
 TODO
 ----
 
 * ~~Add OSX installation steps~~ - on hold for various reasons. Submissions are welcome, though.
 * Add other deployment options e.g. expand on Unicorn, mention cloud hosting, etc.
-* Make another pass at the code to make sure they work.
 * LaTeX all the things!
