@@ -22,8 +22,19 @@ This book is copyright © 2011 by Bryan Bibat. I still haven't decided on the ap
 
 You are free to distribute this book to anyone you want, so long as you do _not_ charge anything for it, _and_ it is not altered. You must give away the book in its entirety, or not at all. This means it's alright for you to teach a class using the book, so long as you aren't charging students for the book and you give them the whole _book_ unmodified.
 
+Obligatory Self-deprecation
+---------------------------
+
+Technically speaking, this document isn't that good, especially in the later chapters. 
+
+When I was initially contracted to do this Rails course, I was the assumption that the guys hiring me would do at least a technical review of the manual. But _nooooo_, they didn't really care about the quality of the materials: all they really cared about is that they get students and get paid. So you're left with a book written by a guy with no formal training in writing.
+
+Anyway, enough griping. If you spot any typos or other issues, feel free to log it as an issue. I'd love to see "pull requests", though. ;)
+
 Code
 ----
+
+The manual was written with Windows and Ubuntu in mind. Thus, the code in the book is compatible with the latest version of [Rails Installer](http://railsinstaller.org/) and my own [RailsFTW](http://railsftw.bryanbibat.net).
 
 Code examples in the book are available at the following locations:
 
@@ -33,6 +44,6 @@ Code examples in the book are available at the following locations:
 TODO
 ----
 
-* ~~Add OSX installation steps~~ - on hold for various reasons. Submissions are welcome, though.
+* ~~Add O$X installation steps~~ - on hold for various reasons. Submissions are welcome, though.
 * Add other deployment options e.g. expand on Unicorn, mention cloud hosting, etc.
 * LaTeX all the things!
