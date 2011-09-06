@@ -15,13 +15,6 @@ And, yet again, I will not be paid a single cent for those updates.
 
 So instead of just letting this nearly obsolete document go to waste, I've decided to give it away for free. 
 
-License
--------
-
-This book is copyright © 2011 by Bryan Bibat. I still haven't decided on the appropriate license for this book. In the meantime, I'll just go with the one in Zed Shaw's excellent series [Learn Code the Hard Way](http://learncodethehardway.org/):
-
-You are free to distribute this book to anyone you want, so long as you do _not_ charge anything for it, _and_ it is not altered. You must give away the book in its entirety, or not at all. This means it's alright for you to teach a class using the book, so long as you aren't charging students for the book and you give them the whole _book_ unmodified.
-
 Code
 ----
 
@@ -29,6 +22,15 @@ Code examples in the book are available at the following locations:
 
 * [https://github.com/bryanbibat/rails-3_0-tutorial-code](https://github.com/bryanbibat/rails-3_0-tutorial-code) - up to date code. written under Ubuntu 11.04.
 * [https://github.com/bryanbibat/alingnena-rails3](https://github.com/bryanbibat/alingnena-rails3) - mostly outdated. has the advantage of being written and verified under Windows 7
+
+License
+-------
+
+This book is copyright © 2011 by Bryan Bibat. 
+
+This work is licensed under the Creative Commons Attribution-NonCommercial 3.0 Unported License. To view a copy of this license, visit [http://creativecommons.org/licenses/by-nc/3.0/](http://creativecommons.org/licenses/by-nc/3.0/) or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA
+
+tl;dr: I'm cool with you modifying this document in order to better suit your needs e.g. turning Aling Nena into Farmer Bob, changing the Chrome/Firefox screenshots to Safari, using Swahili instead of Tagalog in the I18n section, etc. What _isn't_ ok is modifying this work in order to sell it, profiting off it while leaving this poor third-word developer to starve. =(
 
 TODO
 ----
