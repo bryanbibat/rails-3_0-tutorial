@@ -43,6 +43,11 @@ This work is licensed under the Creative Commons Attribution-NonCommercial 3.0 U
 
 tl;dr: I'm cool with you modifying this document in order to better suit your needs e.g. turning Aling Nena into Farmer Bob, changing the Chrome/Firefox screenshots to Safari, using Swahili instead of Tagalog in the I18n section, etc. What _isn't_ ok is modifying this work in order to sell it, profiting off it while leaving this poor third-word developer to starve. =(
 
+"Compiling"
+-----------
+
+The document is at src/student\_manual.odt. You can use any OpenDocument application (e.g. [LibreOffice](http://www.libreoffice.org/)) to export this to PDF as long as you have the fonts [Ubuntu](http://font.ubuntu.com/) and [Inconsolata](http://www.levien.com/type/myfonts/inconsolata.html).
+
 TODO
 ----
 
