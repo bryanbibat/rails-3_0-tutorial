@@ -27,7 +27,7 @@ Anyway, enough griping. If you spot any typos or other issues, feel free to log 
 Code
 ----
 
-The manual was written with Windows and Ubuntu in mind. Thus, the code in the book is compatible with the latest version of [Rails Installer](http://railsinstaller.org/) and my own [RailsFTW](http://railsftw.bryanbibat.net).
+The manual was written with Windows and Ubuntu in mind. Thus, the code in the book is compatible with [Rails Installer](http://railsinstaller.org) [v1.3.0 and below](http://rubyforge.org/frs/?group_id=5288&release_id=46204), as well as my own [RailsFTW](http://railsftw.bryanbibat.net).
 
 Code examples in the book are available at the following locations:
 
