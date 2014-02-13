@@ -1,3 +1,10 @@
+**UPDATE** (13-Feb-2014)
+
+This book is now available on Leanpub: https://leanpub.com/rails3dot0-astudentmanual
+
+While the book is still free for online viewing, you can also purchase the e-book for a pay-what-you-want fee as a way of showing your support. Proceeds will go towards the updated versions of this manual and the other books I'm planning to write in the future.
+
+
 Ruby on Rails 3.0
 =================
 _a free student manual_
